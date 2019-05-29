@@ -1,0 +1,13 @@
+{
+  "@@last_modified": "2019-05-29T10:29:14.002686",
+  "locale": "لوكال",
+  "@locale": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pushedTheButton": "لقد ضغطت الزر عدة مرات",
+  "@pushedTheButton": {
+    "type": "text",
+    "placeholders": {}
+  }
+}
